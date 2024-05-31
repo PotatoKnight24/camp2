@@ -26,9 +26,9 @@ body {
 
 .game-piece {
     position: absolute;
-    width: 50px; /* Increased size for better visibility */
-    height: 50px; /* Increased size for better visibility */
-    border-radius: 50%;
+    width: 20px; /* Increased size for better visibility */
+    height: 20px; /* Increased size for better visibility */
+    border-radius: 40%;
     cursor: grab;
     display: flex;
     justify-content: center;
